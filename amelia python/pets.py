@@ -1,0 +1,10 @@
+import turtle
+snowy=turtle.Pen()
+angel=turtle.Pen()
+snowy.forward(50)
+angel.backward(50)
+angel.left(90)
+angel.forward(50)
+banana=turtle.Pen()
+banana.left(90)
+banana.forward(1000)
